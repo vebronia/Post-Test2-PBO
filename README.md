@@ -25,7 +25,7 @@ Mengelola daftar properti olahraga (alat olahraga), Menggunakan ArrayList untuk 
 
 Ini adalah kelas utama (main class) yang: Menjadi titik masuk program (method main()), Menyediakan menu interaktif berbasis console (CLI), Menggunakan Scanner untuk membaca input dari pengguna, Menggunakan objek ServiceProperti untuk menjalankan fitur: Tambah data, Tampilkan data, Update data, Hapus data, Cari data, Mengatur looping menu hingga user memilih keluar (pilihan = 0)
 
-Fungsi Properti.java
+**Fungsi Properti.java**
 Ini adalah kelas model (data class) yang: Mewakili satu data properti olahraga 
 Menyimpan tiga atribut utama: id → ID unik dari properti,
 nama → Nama alat olahraga, jumlah → Jumlah unit yang tersedia.
